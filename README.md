@@ -1,3 +1,12 @@
+About this fork
+---------------
+
+Verbose logging has been added to infgen's output, to allow parsing and manipulating DEFLATE streams down to the bit level.
+
+These modifications are done for the purpose of non-commercial research.
+
+Original README transcribed below.
+
 Synopsis
 --------
 
